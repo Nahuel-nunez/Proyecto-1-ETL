@@ -30,3 +30,37 @@ Análisis de Clima de la web: [https://www.tiempo3.com/](https://www.tiempo3.com
 ## Estado del Proyecto
 
 Este proyecto se considera completo y finalizado. Fue desarrollado como parte del bootcamp donde estuve estudiando y ahora está disponible para su uso y referencia. Si bien el desarrollo activo ha concluido, siempre estoy abierto a comentarios, sugerencias o preguntas relacionadas con el proyecto. ¡Gracias por tu interés!
+
+# ETL Project (Extraction, Transformation, Loading) with Python
+
+This project involves the implementation of a complete ETL process using Python and various tools for data extraction, transformation, and loading. Additionally, it includes two additional parts: Visualization and Storytelling.
+
+## Process
+
+1. **Extraction**: Automation of data extraction using Web Scraping and APIs.
+
+2. **Transformation**: Data manipulation using pandas and NumPy, including cleaning, structuring, and creation of new variables.
+
+3. **Loading**: Automation of data loading and extraction into an Airtable database.
+
+## Visualization
+
+Generation of graphs using matplotlib, seaborn, plotly, and folium (if applicable).
+
+## Storytelling
+
+Presentation covering the project from start to finish, including motivations, scope, tools used, challenges faced, problem resolution, and results obtained.
+
+## Project Topic
+
+Web Climate Analysis: [https://www.tiempo3.com/](https://www.tiempo3.com/)
+
+## Contact
+
+- LinkedIn: [Nahuel Nuñez](https://www.linkedin.com/in/nahuel-nunez-)
+- GitHub: [nahuel-nunez](https://github.com/nahuel-nunez)
+
+## Project Status
+
+This project is considered complete and finished. It was developed as part of the bootcamp where I was studying and is now available for use and reference. While active development has concluded, I am always open to feedback, suggestions, or questions related to the project. Thank you for your interest!
+
